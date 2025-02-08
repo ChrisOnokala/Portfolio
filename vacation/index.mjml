@@ -106,7 +106,7 @@ color: #0096FF !important;
                 <mj-text mj-class="img-text-title-first"  >
                     Deal of The Day
                 </mj-text>
-                <mj-image mj-class="img-text-image-first" src="http://127.0.0.1:5500/assets/las vegas.jpg" alt="" />
+                <mj-image mj-class="img-text-image-first" src="./assets/las vegas.jpg" alt="" />
                 <mj-text mj-class="img-text-header-first" color="#ffffff">
                     Las Vegas: Eight days with air, hotel, and car rental. 
                     Use promo code FNLV394 to save. Price reflects NYC departure, other cities available.
@@ -134,7 +134,7 @@ color: #0096FF !important;
         </mj-raw>
         <mj-section mj-class="img-section" background-color="#dddddd">
             <mj-column mj-class="img-col"  background-color="#ffffff" >
-                <mj-image mj-class="img-text-image" height="300px" src="http://127.0.0.1:5500/assets/orlando.jpg" alt="" />
+                <mj-image mj-class="img-text-image" height="300px" src="./assets/orlando.jpg" alt="" />
                 <mj-text mj-class="img-text-header">
                     Orlando: 5 nights with air and hotel stay.
                      </mj-text>
@@ -160,7 +160,7 @@ color: #0096FF !important;
         </mj-raw>
         <mj-section mj-class="img-section" background-color="#dddddd">
             <mj-column mj-class="img-col"  background-color="#ffffff" >
-                <mj-image mj-class="img-text-image" height="300px" src="http://127.0.0.1:5500/assets/tokyo.jpg" alt="" />
+                <mj-image mj-class="img-text-image" height="300px" src="./assets/tokyo.jpg" alt="" />
                 <mj-text mj-class="img-text-header">
                     Tokyo: Spend two weeks exploring the Japan 
                 </mj-text>
@@ -186,7 +186,7 @@ color: #0096FF !important;
         </mj-raw>
         <mj-section mj-class="img-section" background-color="#dddddd">
             <mj-column mj-class="img-col"  background-color="#ffffff" >
-                <mj-image mj-class="img-text-image" height="300px" src="http://127.0.0.1:5500/assets/new york.jpg" alt="" />
+                <mj-image mj-class="img-text-image" height="300px" src="./assets/new york.jpg" alt="" />
                 <mj-text mj-class="img-text-header">
                     New York: Visit Times Square and other historical locations 
                 </mj-text>
@@ -212,7 +212,7 @@ color: #0096FF !important;
         </mj-raw>
         <mj-section mj-class="img-section" background-color="#dddddd">
             <mj-column mj-class="img-col"  background-color="#ffffff" >
-                <mj-image mj-class="img-text-image" height="300px" src="http://127.0.0.1:5500/assets/atlanta.jpg" alt="" />
+                <mj-image mj-class="img-text-image" height="300px" src="./assets/atlanta.jpg" alt="" />
                 <mj-text mj-class="img-text-header">
                     Atlanta: Spend 6 nights in the downtown area. 
                     </mj-text>
@@ -238,7 +238,7 @@ color: #0096FF !important;
         </mj-raw>
         <mj-section mj-class="img-section-last" background-color="#dddddd"  >
             <mj-column mj-class="img-col"  background-color="#ffffff"  >
-                <mj-image mj-class="img-text-image" height="300px" src="http://127.0.0.1:5500/assets/other-destinations.jpg" alt="" />
+                <mj-image mj-class="img-text-image" height="300px" src="./assets/other-destinations.jpg" alt="" />
                 <mj-text mj-class="img-text-header">
                    Still looking? There's more
                    </mj-text>
@@ -272,14 +272,14 @@ color: #0096FF !important;
         </mj-group>
         <mj-group   width="200px" >
              <mj-column    width="200px" >
-            <mj-image css-class="app" mj-class="android" href="https://www.momondo.com/"  width="100px"  src="http://127.0.0.1:5500/assets/android.png" alt="" />
+            <mj-image css-class="app" mj-class="android" href="https://www.momondo.com/"  width="100px"  src="./assets/android.png" alt="" />
 
         </mj-column>
         </mj-group>
        
             <mj-group  width="200px">
              <mj-column   width="200px" >
-            <mj-image css-class="app" width="100px" mj-class="apple" href="https://www.momondo.com/" src="http://127.0.0.1:5500/assets/appstore.png" alt="" />
+            <mj-image css-class="app" width="100px" mj-class="apple" href="https://www.momondo.com/" src="./assets/appstore.png" alt="" />
 
         </mj-column>
         </mj-group>
@@ -292,14 +292,14 @@ color: #0096FF !important;
         </mj-raw>
         <mj-section mj-class="socialmedia">
             <mj-column  mj-class="socialmedia-col"  >
-                <mj-image mj-class="socialmedia-image" src="http://127.0.0.1:5500/assets/momondo-socialmedia.png" alt="" />
+                <mj-image mj-class="socialmedia-image" src="./assets/momondo-socialmedia.png" alt="" />
                 
             </mj-column>
         </mj-section>
 
         <mj-section mj-class="selections" >
             <mj-column mj-class="selections-col"  >
-                <mj-image mj-class="selections-image"  src="http://127.0.0.1:5500/assets/momondo-selections.png" alt="" />
+                <mj-image mj-class="selections-image"  src="./assets/momondo-selections.png" alt="" />
                 
             </mj-column>
         </mj-section>
