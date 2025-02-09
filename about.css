@@ -280,7 +280,7 @@ flex-direction: row; */
   object-position: center;
   justify-content: center;
   align-items: center;
-  border-radius: 5%;
+  /* border-radius: 5%; */
 }
 
 .about__video-front2.banner {
@@ -363,7 +363,7 @@ flex-direction: row; */
 
 /* MISSION PAGE START */
 .row.about__row.mission {
-  height: auto;
+  height: 80vh;
   max-width: 100vw;
   padding: 0 5rem;
   
@@ -486,7 +486,7 @@ width: 100%;
 
 #mission-img-col {
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   justify-content: center;
   }
   
@@ -579,7 +579,8 @@ flex-direction: row; */
   object-position: center;
   justify-content: center;
   align-items: center;
-  border-radius: 5%;
+  /* border-radius: 0.25% 0.25% 0 0; */
+  /* CARD IMAGES */
 }
 
 .about__video-front2.mission {
@@ -938,7 +939,7 @@ flex-direction: row; */
   object-position: center;
   justify-content: center;
   align-items: center;
-  border-radius: 5%;
+  /* border-radius: 5%; */
 }
 
 .about__video-front2.contact {
@@ -1159,7 +1160,7 @@ padding: 5rem 10rem;
   object-position: center;
   justify-content: center;
   align-items: center;
-  border-radius: 5%;
+  /* border-radius: 5%; */
 }
 
 .about__video-front2.services {
@@ -1307,7 +1308,7 @@ padding: 5rem 10rem;
     object-position: center;
     justify-content: center;
     align-items: center;
-    border-radius: 5%;
+    /* border-radius: 5%; */
   }
   
   .about__video-front2 {

@@ -136,7 +136,7 @@ width: 8rem;
 
 
 <mj-social   mj-class="social-div" css-class="social-div" >
-    <mj-social-element  mj-class="social-hover" css-class="social-hover"   href="https://youtube.com" src="./assets/yt.png">
+    <mj-social-element  mj-class="social-hover" css-class="social-hover" href="https://youtube.com/"   src="./assets/yt.png">
        <mj-text mj-class="social-word" css-class="social-word" >
         Continue with Youtube 
        </mj-text>
