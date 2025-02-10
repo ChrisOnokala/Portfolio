@@ -488,7 +488,10 @@ width: 100%;
   display: flex;
   /* align-items: center; */
   justify-content: center;
+  
   }
+
+ 
   
   #mission-img {
     /* min-width: 120px; */
@@ -497,8 +500,9 @@ width: 100%;
     max-width: 350px;
     max-height: 500px;
     min-height: 500px;
-    
   }
+
+ 
 
 .row.about__row.mission {
   flex-direction: row;
@@ -512,6 +516,8 @@ width: 100%;
 }
 
 .about__group2-mission {
+  
+  
   height: 100%;
   /* max-width: 100%; */
   width: 100%;
@@ -526,6 +532,7 @@ flex-direction: row; */
 /* padding: 5rem 10rem; */
 /* height: 200px;
   width: 200px; */
+
 }
 
 @media only screen and (min-width: 1em) and (max-width: 68em) {
@@ -566,6 +573,8 @@ flex-direction: row; */
   width: 100%;
   position: relative;
   object-position: center;
+
+  
   
 }
 
@@ -582,6 +591,57 @@ flex-direction: row; */
   /* border-radius: 0.25% 0.25% 0 0; */
   /* CARD IMAGES */
 }
+
+#mission-img:hover {
+  cursor: pointer;
+  
+}
+
+
+
+
+
+#card-main {
+  overflow: hidden;
+}
+
+#card-body {
+  z-index: 1;
+  border: solid 1px var(--dark);
+  background-color: var(--light);
+}
+
+#card-main:hover .card-img-top.about__img-front2.mission {
+  
+  -o-object-fit: cover;
+    object-fit: cover;
+ -o-object-position: center;
+    object-position: center;
+ transition: all 0.5s ease-in-out;
+ transition: all 0.5s;
+ 
+ transform: scale(1.1);
+ z-index: 0;
+  
+}
+
+.card-title, .card-text {
+  text-align: center;
+}
+
+/* #button-card:hover {
+  border: 1px black solid
+} */
+
+#button-card {
+  color: white;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+}
+
+
 
 .about__video-front2.mission {
   height: 100%;
