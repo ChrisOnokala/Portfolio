@@ -20086,7 +20086,7 @@ textarea.form-control-lg {
 body {
   background-color: var(--light);
   scrollbar-gutter: stable both-edges;
-  padding-top: 45px;
+  /* padding-top: 45px; */
   max-width: 100vw;
   overflow-x: hidden;
 }
