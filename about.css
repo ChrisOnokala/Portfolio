@@ -2676,6 +2676,15 @@ padding: 5rem 10rem;
   }
 
   @media only screen and (min-width: 401px) and (max-width: 576px ) {
+
+    #mission-img {
+      min-width: 350px;
+      max-width: 350px;
+      max-height: 550px;
+      min-height: 550px;
+    }
+
+    
     #hero1_img-front-id1 {
       height: 35rem;
       object-fit: cover;
