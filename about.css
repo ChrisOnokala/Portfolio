@@ -20,18 +20,45 @@ background-color: white !important;
   margin-bottom: 1rem;
   width: 15rem;
   font-size: 1.5rem;
-  text-shadow: 0 1px 0 #000000, 
-               0 2px 0 #000000,
-               0 3px 0 #000000,
-               0 4px 0 #000000,
-               0 5px 0 #000000,
-               0 6px 1px rgba(0,0,0,.1),
-0 0 5px rgba(0,0,0,.1),
-0 1px 3px rgba(0,0,0,.3),
-0 3px 5px rgba(0,0,0,.2),
-0 5px 10px rgba(0,0,0,.25),
-0 10px 10px rgba(0,0,0,.2),
-0 20px 20px rgba(0,0,0,.15);
+  /* LIGHT TEXT SHADOW VERSION */
+
+
+
+
+
+/* length */
+text-shadow: 
+0 1px 0   #6c757d, 
+0 2px 0   #6c757d,
+/* length */
+
+/* blend */
+0 3px 0   #212529,
+0 4px 0   #212529,
+0 5px 0 #212529,  
+0 6px 1px #212529,
+/* blend */
+
+/* highlights */
+0 0 5px #212529,
+0 1px 3px #212529,
+0 3px 5px #212529,
+0 5px 10px #212529,
+0 10px 10px #212529,
+0 20px 20px #212529;
+/* highlights */
+
+/* --gray-100: #f8f9fa;
+--gray-200: #e9ecef;
+--gray-300: #dee2e6;
+--gray-400: #ced4da;
+--gray-500: #adb5bd;
+--gray-600: #6c757d;
+--gray-700: #495057;
+--gray-800: #343a40;
+--gray-900: #212529; */
+
+/* LIGHT TEXT SHADOW VERSION */
 }
 
 .hero1__title1-main {
@@ -41,25 +68,45 @@ background-color: white !important;
   color: var(--light);
   font-weight: 600;
   margin-bottom: 0.5rem;
-  text-shadow: 0 1px 0 #000000, 
-               0 2px 0 #000000,
-               0 3px 0 #000000,
-               0 4px 0 #000000,
-               0 5px 0 #000000,
-               0 6px 1px rgba(0,0,0,.1),
-0 0 5px rgba(0,0,0,.1),
-0 1px 3px rgba(0,0,0,.3),
-0 3px 5px rgba(0,0,0,.2),
-0 5px 10px rgba(0,0,0,.25),
-0 10px 10px rgba(0,0,0,.2),
-0 20px 20px rgba(0,0,0,.15);
-               /* 0 6px 1px rgb(198, 197, 197),
-0 0 5px rgba(198, 197, 197),
-0 1px 3px rgba(198, 197, 197),
-0 3px 5px rgb(198, 197, 197),
-0 5px 10px rgb(198, 197, 197),
-0 10px 10px rgb(198, 197, 197),
-0 20px 20px rgb(198, 197, 197); */
+ /* LIGHT TEXT SHADOW VERSION */
+
+
+
+
+
+/* length */
+text-shadow: 
+0 1px 0   #6c757d, 
+0 2px 0   #6c757d,
+/* length */
+
+/* blend */
+0 3px 0   #212529,
+0 4px 0   #212529,
+0 5px 0 #212529,  
+0 6px 1px #212529,
+/* blend */
+
+/* highlights */
+0 0 5px #212529,
+0 1px 3px #212529,
+0 3px 5px #212529,
+0 5px 10px #212529,
+0 10px 10px #212529,
+0 20px 20px #212529;
+/* highlights */
+
+/* --gray-100: #f8f9fa;
+--gray-200: #e9ecef;
+--gray-300: #dee2e6;
+--gray-400: #ced4da;
+--gray-500: #adb5bd;
+--gray-600: #6c757d;
+--gray-700: #495057;
+--gray-800: #343a40;
+--gray-900: #212529; */
+
+/* LIGHT TEXT SHADOW VERSION */
                
 }
 
@@ -82,6 +129,82 @@ background-color: white !important;
 
 .work-titles {
   margin-top: 3rem;
+
+  /* DARK TEXT SHADOW VERSION */
+
+
+/* length */
+text-shadow: 
+0 1px 0   #e9ecef, 
+0 2px 0   #e9ecef,
+/* length */
+
+/* blend */
+0 3px 0   #dee2e6,
+0 4px 0   #dee2e6,
+0 5px 0 #dee2e6,  
+0 6px 1px #dee2e6,
+/* blend */
+
+/* highlights */
+0 0 5px #dee2e6,
+0 1px 3px #dee2e6,
+0 3px 5px #dee2e6,
+0 5px 10px #212529,
+0 10px 10px #212529,
+0 20px 20px #212529;
+/* highlights */
+
+/* --gray-100: #f8f9fa;
+--gray-200: #e9ecef;
+--gray-300: #dee2e6;
+--gray-400: #ced4da;
+--gray-500: #adb5bd;
+--gray-600: #6c757d;
+--gray-700: #495057;
+--gray-800: #343a40;
+--gray-900: #212529; */
+
+/* DARK TEXT SHADOW VERSION */
+}
+
+.skills-title {
+  /* DARK TEXT SHADOW VERSION */
+
+
+/* length */
+text-shadow: 
+0 1px 0   #e9ecef, 
+0 2px 0   #e9ecef,
+/* length */
+
+/* blend */
+0 3px 0   #dee2e6,
+0 4px 0   #dee2e6,
+0 5px 0 #dee2e6,  
+0 6px 1px #dee2e6,
+/* blend */
+
+/* highlights */
+0 0 5px #dee2e6,
+0 1px 3px #dee2e6,
+0 3px 5px #dee2e6,
+0 5px 10px #212529,
+0 10px 10px #212529,
+0 20px 20px #212529;
+/* highlights */
+
+/* --gray-100: #f8f9fa;
+--gray-200: #e9ecef;
+--gray-300: #dee2e6;
+--gray-400: #ced4da;
+--gray-500: #adb5bd;
+--gray-600: #6c757d;
+--gray-700: #495057;
+--gray-800: #343a40;
+--gray-900: #212529; */
+
+/* DARK TEXT SHADOW VERSION */
 }
 
 .hero1__content-container1--aligned-center-main {
@@ -1014,6 +1137,7 @@ flex-direction: row; */
   display: flex;
   /* flex-direction: column; */
   width: 100%;
+  
   /* box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
   border-radius: 5%;
   display: flex; 
@@ -1265,7 +1389,7 @@ flex-direction: row; */
 }
 
 .hero1__button1 {
-  padding: 1rem 2rem;
+  padding: 1rem .5rem;
   text-align: center;
   width: 10rem;
   text-decoration: none;
@@ -2333,3 +2457,183 @@ padding: 5rem 10rem;
     opacity: 1;
   }
   
+  @media only screen and (min-width: 1px) and (max-width: 300px ) {
+
+  }
+
+  @media only screen and (min-width: 301px) and (max-width: 400px ) {
+
+  }
+
+  @media only screen and (min-width: 401px) and (max-width: 576px ) {
+    #hero1_img-front-id1 {
+      height: 35rem;
+      object-fit: cover;
+      position: relative;
+    }
+
+    .hero1__content-container1--aligned-center-main {
+      position: absolute;
+      /* top: 0; */
+      left: 0;
+      top: 40%;
+      /* top: 40%; */
+      /* bottom: 50%; */
+      max-width: 100%;
+      width: 100%;
+      /* height: 80%; */
+      /* height: 48px; */
+      height: auto;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      display: flex;
+      /* padding: 3rem 1rem; */
+      text-align: center;
+    }
+    
+    .hero1__info1-main {
+      max-width: 10rem;
+      width: 10rem;
+      display: flex;
+      flex-direction: center;
+      justify-content: center;
+    }
+
+    .hero1__title1-main {
+      width: 25rem;
+      font-size: 2rem;
+      font-family: "Bebas Neue", "cursive";
+      color: var(--light);
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .hero1__paragraph1-main {
+      color: var(--light);
+      margin-bottom: 1rem;
+      width: 15rem;
+      font-size: 1rem;
+    }
+
+    .hero1__button1 {
+      padding: 1rem .5rem;
+      text-align: center;
+      width: 10rem;
+      text-decoration: none;
+      cursor: pointer;
+      font-weight: 700;
+      border: 2px double var(--light);
+      color: var(--light);
+      background-color: var(--dark);
+      font-size: 0.8rem;
+      transition: all 0.3s ease-in-out;
+      opacity: 1;
+    }
+
+    .about__paragraph1-mission-title-email {
+     
+      font-size: 2rem;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 2rem;
+      font-family: "Bebas Neue", "cursive";
+      font-weight: 600;
+    }
+
+    .nav-item {
+      padding: 1rem;
+    }
+
+    /* #mission-email {
+      height: 300vh;
+      background-color: #f4f8fc
+    } */
+
+    #mission-email.hero.about.mission.kr {
+      height: 230vh;
+      background-color: #f4f8fc
+    }
+
+    #pills-tabContent-pri #mission-img-col {
+        margin-bottom: 0;
+        height: auto;
+    }
+
+    #pills-second-email #mission-img-col{
+      margin-bottom: -4.5rem;
+      height: auto;
+  }
+
+  #pills-second-email-cont #mission-img-col{
+    margin-bottom: -4.5rem;
+    height: auto;
+}
+   #pills-first.tab-pane.fade.show.active {
+    /* width: 100%; */
+    /* margin: 0 auto; */
+    /* display: flex;
+    justify-content: center;
+    flex-direction: column; */
+   }
+
+    #pills-tabContent {
+      justify-content: center;
+      display: flex;
+      width: 100%;
+      margin: 0 auto;
+   height: auto;
+
+      
+    }
+
+    .skills-content, .design-content {
+      margin: 0 auto;
+    }
+
+    #mission-email-column {
+      height: auto;
+      display: flex;
+      flex-direction: row;
+      margin-bottom: 5rem;
+      /* background-color: #f4f8fc;  */
+    
+    }
+    
+    /* #skills1, #skills2, #skills3, #skills4, #skills5, #skills6, #skills7 {
+      justify-content: center;
+      display: flex;
+      flex-direction: column;
+    } */
+
+    
+
+    /* #email-work.row.email #mission-img {
+      height: 200rem;
+    } */
+
+    /* #mission-email #mission-img .about__group2-mission #card-body  {
+      margin-bottom: 40rem;
+    } */
+    
+  }
+
+  @media only screen and (min-width: 577px) and (max-width: 768px) {
+
+  }
+
+  @media only screen and (min-width: 769px) and (max-width: 992px) {
+
+  }
+
+  @media only screen and (min-width: 993px) and (max-width: 1199px) {
+
+  }
+
+  @media only screen and (min-width: 1200px) and (max-width: 1399px) {
+
+  }
+
+  @media only screen and (min-width: 1400px) {
+
+  }
